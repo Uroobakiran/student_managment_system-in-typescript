@@ -1,0 +1,1 @@
+Proud to announce the completion of my Student Management system project!  Seamlessly manage student data, track progress, and streamline administrative tasks with this robust system. Ready to revolutionize education management! 
